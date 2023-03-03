@@ -1,0 +1,38 @@
+{
+    "name": "country-parser",
+    "version": "0.1.0-alpha.1",
+    "description": "Standard data convert from something.",
+    "keywords": [
+        "country-parser",
+        "country",
+        "parser"
+    ],
+    "homepage": "https://github.com/linksynapse/neuron",
+    "bugs": {
+        "url": "https://github.com/linksynapse/neuron/issues",
+        "email": "kailnet120@linksynapse.com"
+    },
+    "license": "MIT",
+    "author": {
+        "name": "Eden Lee(Gyeong Tae)",
+        "email": "kailnet120@linksynapse.com",
+        "url": "https://github.com/linksynapse"
+    },
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/linksynapse/neuron.git"
+    },
+    "files": [
+        "index.js",
+        "static"
+    ],
+    "engines": {
+        "node": "*",
+        "npm": "*"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"   
+    },
+    "type": "module"
+}
