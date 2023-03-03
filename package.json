@@ -1,7 +1,7 @@
 {
     "name": "country-parse",
     "version": "0.1.0-alpha.2",
-    "description": "Standard data convert from something.",
+    "description": "Convert to standard data from string.",
     "keywords": [
         "country-parse",
         "country-parser",
