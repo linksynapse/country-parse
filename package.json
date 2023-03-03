@@ -1,6 +1,6 @@
 {
     "name": "country-parse",
-    "version": "0.1.0-alpha.2",
+    "version": "0.1.0-alpha.3",
     "description": "Convert to standard data from string.",
     "keywords": [
         "country-parse",
@@ -33,7 +33,7 @@
         "npm": "*"
     },
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"   
+        "test": "echo \"Error: no test specified\" && exit 1"
     },
     "type": "module"
 }
