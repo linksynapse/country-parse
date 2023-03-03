@@ -1,8 +1,9 @@
 {
-    "name": "country-parser",
+    "name": "country-parse",
     "version": "0.1.0-alpha.1",
     "description": "Standard data convert from something.",
     "keywords": [
+        "country-parse",
         "country-parser",
         "country",
         "parser"
