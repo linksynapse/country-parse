@@ -8,9 +8,9 @@
         "country",
         "parser"
     ],
-    "homepage": "https://github.com/linksynapse/neuron",
+    "homepage": "https://github.com/linksynapse/country-parse",
     "bugs": {
-        "url": "https://github.com/linksynapse/neuron/issues",
+        "url": "https://github.com/linksynapse/country-parse/issues",
         "email": "kailnet120@linksynapse.com"
     },
     "license": "MIT",
@@ -22,7 +22,7 @@
     "main": "index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/linksynapse/neuron.git"
+        "url": "https://github.com/linksynapse/country-parse.git"
     },
     "files": [
         "index.js",
