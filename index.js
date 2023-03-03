@@ -24,14 +24,6 @@ function LikeByAlpha3(alpha3){
     return filtered;
 }
 
-function LikeByNumeric(numeric){
-    const filtered = countryData.filter((prop) => {
-        return prop.numeric && prop.numeric.toLowerCase().includes(numeric.toLowerCase());
-    });
-
-    return filtered;
-}
-
 function findOneByName(name){
     return countryData.find(prop => {
         return prop.name.toLocaleLowerCase() == name.toLocaleLowerCase();
@@ -52,7 +44,7 @@ function findOneByAlpha3(alpha3){
 
 function findOneByNumeric(numeric){
     return countryData.find(prop => {
-        return prop.numeric.toLocaleLowerCase() == numeric.toLocaleLowerCase();
+        return prop.numeric == numeric;
     });
 }
 
@@ -60,7 +52,6 @@ export default {
     LikeByName,
     LikeByAlpha2,
     LikeByAlpha3,
-    LikeByNumeric,
     findOneByName,
     findOneByAlpha2,
     findOneByAlpha3,
