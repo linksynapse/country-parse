@@ -1,6 +1,12 @@
 Changelog
 =========
 
+### 0.1.0-alpha.4
+
+* Release Mar 6, 2023
+  * [fixed] static json module import change to js module.
+
+
 ### 0.1.0-alpha.3
 
 * Release Mar 6, 2023

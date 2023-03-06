@@ -1,4 +1,4 @@
-[
+const countryData = [
   {
     "name": "Afghanistan",
     "alpha2": "AF",
@@ -1493,4 +1493,6 @@
     "alpha3": "ALA",
     "numeric": 248
   }
- ]
+ ];
+
+export default countryData;

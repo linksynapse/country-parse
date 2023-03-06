@@ -1,4 +1,4 @@
-import countryData from './static/data.country.json' assert {type: 'json'};
+import countryData from './static/country.js';
 
 function LikeByName(name){
     const filtered = countryData.filter((prop) => {
