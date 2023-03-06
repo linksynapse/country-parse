@@ -48,6 +48,10 @@ function findOneByNumeric(numeric){
     });
 }
 
+function GetAll(){
+    return countryData;
+}
+
 export default { 
     LikeByName,
     LikeByAlpha2,
@@ -56,4 +60,5 @@ export default {
     findOneByAlpha2,
     findOneByAlpha3,
     findOneByNumeric,
+    GetAll,
 }

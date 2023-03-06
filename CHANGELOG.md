@@ -1,6 +1,11 @@
 Changelog
 =========
 
+### 0.1.0-alpha.3
+
+* Release Mar 6, 2023
+  * [new] create get all country list function.
+
 ### 0.1.0-alpha.2
 
 * Release Mar 3, 2023

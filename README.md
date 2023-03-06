@@ -17,6 +17,15 @@ npm install --save country-parse
 ```
 
 ## Example
+### useage - get all list
+```javascript
+/* search country property list */
+import countryParse from "country-parse";
+
+const list = countryParse.GetAll();
+console.log(list);
+```
+
 ### useage - find list
 ```javascript
 /* search country property list by country name */
